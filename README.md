@@ -1,3 +1,3 @@
 # README
 
-Example app for post https://therailscoach.com/2020/06/09/rails-magic-autoload/(opens in a new tab)
+Example app for post https://therailscoach.com/2020/06/09/rails-magic-autoload/
